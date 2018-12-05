@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naloga01", "Naloga01\Naloga01.csproj", "{FF780181-FB8A-4A2E-AD32-AF891094778A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF780181-FB8A-4A2E-AD32-AF891094778A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF780181-FB8A-4A2E-AD32-AF891094778A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF780181-FB8A-4A2E-AD32-AF891094778A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF780181-FB8A-4A2E-AD32-AF891094778A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABEFBBFB-F773-4C43-BC58-E4174A78C780}
+	EndGlobalSection
+EndGlobal
