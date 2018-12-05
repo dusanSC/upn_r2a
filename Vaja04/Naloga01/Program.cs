@@ -11,6 +11,7 @@ namespace Naloga01
         static void Main(string[] args)
         {
             Console.WriteLine("TEST");
+            //nov komentar
         }
     }
 }
